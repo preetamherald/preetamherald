@@ -34,11 +34,11 @@ Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 
 <br />
 
+
 **Languages and Tools:**  
 
 
 **Backend & Databases**<br />
-
 <img height="40" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/django.svg">
 <img height="40" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png">
@@ -47,8 +47,8 @@ Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 <img height="40" src="https://cdn.svgporn.com/logos/firebase.svg">
 
 
-**Frontend & App Devlopment**<br />
 
+**Frontend & App Devlopment**<br />
 <img height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
@@ -58,8 +58,8 @@ Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 <img height="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 
-**MISC**<br />
 
+**MISC**<br />
 <img height="40" src="assets/aframe.png">
 <img height="40" src="https://keras.io/img/logo.png">
 <img height="40" src="https://cdn.svgporn.com/logos/arduino.svg">
