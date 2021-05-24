@@ -16,7 +16,7 @@
 
 Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 
-- Wroking towards making **Technology and Magic** interchangable terms 🏆
+- Working towards making **Technology and Magic** interchangeable terms 🏆
 - Trying to empower people of all ages to learn about the miracles tech brings 🌟
 - Aiming to Accelerating Technological Growth 🌐
 
@@ -48,7 +48,7 @@ Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 
 
 
-**Frontend & App Devlopment**<br />
+**Frontend & App Development**<br />
 <img height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
@@ -59,7 +59,7 @@ Hi, I'm [Preetam Yadav](https://github.com/preetamherald), a maker.
 
 
 
-**MISC**<br />
+**Misc**<br />
 <img height="40" src="assets/aframe.png">
 <img height="40" src="https://keras.io/img/logo.png">
 <img height="40" src="https://cdn.svgporn.com/logos/arduino.svg">
